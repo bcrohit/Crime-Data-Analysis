@@ -28,5 +28,5 @@ Though this data is not complete, still we can get lot of insights and overview 
 All the data was collected from the [official website](https://ksp.karnataka.gov.in/) of Karnataka State Police which were published in consolidated way on the monthly basis.
 
 ### Note
-I had spent my time in scraping the data and cleaning so that it becomes easier for analysis and to get insight, hence please do acknowledge if in case you use.
+I had spent my time in scraping the data and cleaning so that it becomes easier for analysis and to get insight, hence please do acknowledge if in case you make use of it.
 
